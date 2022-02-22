@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">RecyclerView practice</string>
+    <string-array name="car_names" >
+        <item>Ferrari</item>
+        <item>Ducati</item>
+        <item>audi</item>
+        <item>BMW</item>
+        <item>Mini cooper</item>
+        <item>lexus</item>
+        <item>toyoto</item>
+        <item>tesla</item>
+        <item>hyndai</item>
+
+    </string-array>
+
+    <string-array name="description">
+        <item>super car</item>
+        <item>super car</item>
+        <item>super car</item>
+        <item>super car</item>
+        <item>super car</item>
+        <item>super car</item>
+        <item>super car</item>
+        <item>super car</item>
+        <item>super car</item>
+
+    </string-array>
+</resources>
